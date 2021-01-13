@@ -99,8 +99,8 @@ footer a {
 		transform: translateX(30px);
 	}
 	header img {
-		width: 35%;
-		transform: translateX(50px);
+		width: 40%;
+		transform: translateX(30px);
 	}
 	.box-2 h1 {
 		font-size: 1.2em;
@@ -109,7 +109,7 @@ footer a {
 	}
 	.box-2 p {
 		font-size: 1em;
-		color: #ffffffbb;
+		color: #ffffff;
 		line-height: 1.5;
 	}
 
